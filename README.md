@@ -41,11 +41,11 @@
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
     
 <div class='container'>
-    <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=neoochii&show_icons=true&theme=radical&hide_border=true" />
+    <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=dilshadalikhan2004&show_icons=true&theme=radical&hide_border=true" />
     &nbsp;
     &nbsp;
-    <img style="height: auto; width: 43%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=neoochii&theme=radical&layout=compact&hide_border=true" /></div>
+    <img style="height: auto; width: 43%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=dilshadalikhan2004&theme=radical&layout=compact&hide_border=true" /></div>
 </div>
 
 
-[![neoochii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neoochii&theme=high-contrast)](https://github.com/neoochii/github-readme-activity-graph)
+[![neoochii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshadalikhan2004&theme=high-contrast)](https://github.com/dilshadalikhan2004/github-readme-activity-graph)
